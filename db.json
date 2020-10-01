@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+        "id":"1",
+        "title":"탕수육 먹을 때",
+        "answer1":"부먹",
+        "answer2":"찍먹",
+        "answer1_info":"부어서 먹는다.",
+        "answer2_info":"찍어서 먹는다.",
+        "adult_check":"0",
+        "tag":"13",
+        "user_id":"1",
+        "agree":"1388",
+        "disagree":"5361",
+        "create_time":"2020-05-20 13:06:14",
+        "love":"2",
+        "hate":"4",
+        "password":""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
